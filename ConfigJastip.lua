@@ -12,7 +12,7 @@ MoveRange = 6
 MoveInterval = 200
 JedaHW = 7
 HW_Exit = true
-LanjutPlant = false -- APABILA true MAKA BOTNYA AUTO PLANT KE LISTPLANT | BOT TIDAK AKAN DROP SEED KE STORAGE
+LanjutPlant = true -- APABILA true MAKA BOTNYA AUTO PLANT KE LISTPLANT | BOT TIDAK AKAN DROP SEED KE STORAGE
 
 --==== NEW V1.7 ====--
 PNBOtherWorld = true --APABILA INGIN PNB DILUAR FARM
@@ -84,7 +84,7 @@ HideWebhook = false --BOT GAK BAKAL NGIRIM WEBHOOK (CONDITIONAL VARIABLE LANJUTA
 ShowPingHook = true --bakal tetap ngasih info untuk PingHook
 ShowSeedInfo = true --bakal tetap ngasih info untuk Seed Hook
 ShowPackInfo = true --bakal tetap ngasih info untuk Pack Hook
-SimplePinghook = false
+SimplePinghook = true
 
 ---===== JOIN RANDOM WORLD =====---
 nextrandom = false --UBAH JADI FALSE JIKA GAMAU JOIN RANDOM WORLD SEBELUM NEXT WORLD
