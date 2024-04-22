@@ -78,7 +78,7 @@ AbaikanTile = {} --BOT GA AKAN PLANT DIATAS IDITEM YANG DIISIKAN
 
 --=== NEW VAR ===--
 IntervalPlus = 0 -- JEDA TIAP CALL FUNCTION
-ControlViaDC = true
+ControlViaDC = false
 TimeRelogBotMatung = 15 --JIKA TIDAK ADA AKTIVITAS SELAMA 7 MENIT, AUTO RELOG
 HideWebhook = false --BOT GAK BAKAL NGIRIM WEBHOOK (CONDITIONAL VARIABLE LANJUTAN)
 ShowPingHook = true --bakal tetap ngasih info untuk PingHook
